@@ -2,7 +2,7 @@
 
 # Interior Design Company Website
 
-This is the official website for [Interior Company Name], built to showcase services, portfolio, and contact information. The site is designed with a modern aesthetic to reflect the company’s creative and professional identity.
+This is the official website for Doe Smiles, built to showcase services, portfolio, and contact information. The site is designed with a modern aesthetic to reflect the company’s creative and professional identity.
 
 ## Features
 
